@@ -1,0 +1,42 @@
+{
+  "identifier": "Napkinapp",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "napkinnotes_group",
+      "localizations": [],
+      "name": "Napkin Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "napkinnotes_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Searchable note history and photo attachments",
+              "displayName": "Napkin Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.napkinnotes.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Napkin Pro Monthly",
+          "subscriptionGroupID": "napkinnotes_group",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
